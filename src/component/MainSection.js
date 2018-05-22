@@ -4,7 +4,6 @@ import TodoItem from './TodoItem'
 export default class MainSection extends Component {
 
   render() {
-
     return (
       <section className="main">
         <ul className="todo-list">
